@@ -1,0 +1,30 @@
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Editor / IDE settings
+.vscode/
+.idea/
+
+# Test and coverage files
+.coverage
+htmlcov/
+
+# Build / distribution files
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
