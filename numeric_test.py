@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 from exploration import numeric_ranges, run_check
+
 # Create a small test DataFrame with known values
 # Column A has different values, column B has the same value in all rows
 test_df = pd.DataFrame({
